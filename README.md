@@ -1,5 +1,5 @@
 ##### . 👋 Hi, I’m Muhammad Abdulazeez
-##### . 👀 I’m a 18 year-old Web Developer
+##### . 👀 I’m a Full-Stack Developer
 ##### . 👀 Lover of Open Source contribution
 ##### . 🌱 I’m currently into Frontend Development, with the use of HTML, CSS, Tailwind CSS, Bootstrap, Javascript, Typescript and React.js
 ##### . 🧠  I'm learning Mobile App Development
