@@ -1,5 +1,6 @@
 ##### . 👋 Hi, I’m Muhammad Abdulazeez
 ##### . 👀 I’m a Full-Stack Developer
+##### . 👀 Blockchain Dev Soon
 ##### . 👀 Lover of Open Source contribution
 ##### . 🌱 I’m currently into Frontend Development, with the use of HTML, CSS, Tailwind CSS, Bootstrap, Javascript, Typescript and React.js
 ##### . 🧠  I'm learning Mobile App Development
